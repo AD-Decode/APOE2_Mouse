@@ -10,10 +10,10 @@ multi_cca codes
 codes and data to generate normalized counts, differential gene expression
 
 ## volcano plot
-Volcano plotter
+Volcano plots
 
 
-## integrtive analysis : connectome & traits
+## integrative analysis : connectome & traits
 include vertex screening, validation of age and sex prediction using GNN, and NN classifiers
 
 
