@@ -20,5 +20,5 @@ Volcano plots for sex specific mike_sex.R and for mike_age.R for age specific. m
 ## winding_multi_cca
 MCCA of connectomes, winding numbers, RNA-seq plus anova and posthoc stats associated with AWN. multicca.R and bootcca_multi_cca.R take care of SMCCA by the files contained in this folder for input and anova_winding_apoe2.R take care of the AWN stats and plots.  
 
-#CHASSSYMMETRIC2Legends0907...
+## CHASSSYMMETRIC2Legends0907...
 The Atlas details used for computations and analysis.
